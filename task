@@ -1,8 +1,7 @@
 # 克隆项目
-git clone <你的仓库地址>
-cd <你的仓库目录>
+git clone <https://github.com/ffuu-gif/ffuu.git>
+cd <task>
 
 # 安装依赖（任选其一）
 npm install
-# 或
-# pnpm install   # 如果你喜欢 pnpm，需先 npm i -g pnpm
+
